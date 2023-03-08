@@ -1,0 +1,5 @@
+.projects .flickity-slider :not(.is-selected) {
+  opacity: 0.5;
+  transition: all 0.5s ease-in-out;
+  z-index: -1;
+}
